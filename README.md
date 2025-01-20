@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kamohelo Bore</h1>
 <h3 align="center">A passionate Software Developer from Johannesburg</h3>
 
-- 🔭 I’m currently working on [Employee Management Systems](https://github.com/NuffSaid-Bore/Employee_Management_System)
+- 🔭 I’m currently working on [Bank Management Systems](https://github.com/Sync-CAPACITI/Spring_Bank_Management_System)
+- 
+- Live Preview here: [Bank_Management_System](https://bank-system-enre.onrender.com)
 
 - 🌱 I’m currently learning **Springboot, React and Angular**
 
